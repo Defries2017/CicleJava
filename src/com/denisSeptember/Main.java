@@ -40,7 +40,7 @@ public class Main {
 
         } else {
 
-            System.out.println("Не вышел");
+            System.out.println("Невышел");
 
         }
 
